@@ -35,6 +35,10 @@ body{
     border: 1px solid #ddd;
     margin: auto;
 }
+.post{
+    text-decoration: double;
+    text-shadow: #33a;
+}
 
 #container h1{
     font-size: 25px;
